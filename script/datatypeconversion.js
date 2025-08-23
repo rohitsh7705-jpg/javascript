@@ -18,3 +18,9 @@ let somenumber =11
 let stringnumber = String(somenumber)
 console.log(stringnumber)
 console.log(typeof(stringnumber))
+
+
+// ************* operations ****************
+let value =3
+let negvalue = -value
+//console.log(negvalue)
